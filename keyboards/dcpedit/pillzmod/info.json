@@ -3,9 +3,6 @@
     "keyboard_name": "Pillz Mod",
     "maintainer": "dcpedit",
     "diode_direction": "COL2ROW",
-    "dynamic_keymap": {
-        "layer_count": 2
-    },
     "features": {
         "audio": true,
         "bootmagic": true,

@@ -1,5 +1,8 @@
 {
     "bootloader": "caterina",
+    "dynamic_keymap": {
+        "layer_count": 2
+    },
     "features": {
         "haptic": true
     },

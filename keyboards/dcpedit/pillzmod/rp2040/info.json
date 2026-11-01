@@ -1,5 +1,8 @@
 {
     "development_board": "elite_pi",
+    "dynamic_keymap": {
+        "layer_count": 8
+    },
     "indicators": {
         "caps_lock": "GP13",
         "num_lock": "GP14",
